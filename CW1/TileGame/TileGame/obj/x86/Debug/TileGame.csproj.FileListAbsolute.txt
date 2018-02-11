@@ -1,0 +1,10 @@
+C:\Users\Tom\Documents\UoD\2nd Year\2nd Semester\Computer Systems 2B\TileGame\TileGame\bin\Debug\TileGame.exe
+C:\Users\Tom\Documents\UoD\2nd Year\2nd Semester\Computer Systems 2B\TileGame\TileGame\bin\Debug\TileGame.pdb
+C:\Users\Tom\Documents\UoD\2nd Year\2nd Semester\Computer Systems 2B\TileGame\TileGame\obj\x86\Debug\TileGame.Properties.Resources.resources
+C:\Users\Tom\Documents\UoD\2nd Year\2nd Semester\Computer Systems 2B\TileGame\TileGame\obj\x86\Debug\TileGame.csproj.GenerateResource.Cache
+C:\Users\Tom\Documents\UoD\2nd Year\2nd Semester\Computer Systems 2B\TileGame\TileGame\obj\x86\Debug\TileGame.exe
+C:\Users\Tom\Documents\UoD\2nd Year\2nd Semester\Computer Systems 2B\TileGame\TileGame\obj\x86\Debug\TileGame.pdb
+C:\Users\Tom\Documents\UoD\2nd Year\2nd Semester\Computer Systems 2B\TileGame\TileGame\obj\x86\Debug\TileGame.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Documents\UoD\2nd Year\2nd Semester\Computer Systems 2B\TileGame\TileGame\obj\x86\Debug\TileGame.MainGameWindow.resources
+C:\Users\Tom\Documents\UoD\2nd Year\2nd Semester\Computer Systems 2B\CW1\TileGame\TileGame\obj\x86\Debug\TileGame.exe
+C:\Users\Tom\Documents\UoD\2nd Year\2nd Semester\Computer Systems 2B\CW1\TileGame\TileGame\obj\x86\Debug\TileGame.pdb

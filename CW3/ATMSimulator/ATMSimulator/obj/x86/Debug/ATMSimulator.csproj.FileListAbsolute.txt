@@ -1,0 +1,8 @@
+C:\Users\Tom\Documents\UoD\2nd Year\2nd Semester\Computer Systems 2B\CW3\ATMSimulator\ATMSimulator\bin\Debug\ATMSimulator.exe
+C:\Users\Tom\Documents\UoD\2nd Year\2nd Semester\Computer Systems 2B\CW3\ATMSimulator\ATMSimulator\bin\Debug\ATMSimulator.pdb
+C:\Users\Tom\Documents\UoD\2nd Year\2nd Semester\Computer Systems 2B\CW3\ATMSimulator\ATMSimulator\obj\x86\Debug\ATMSimulator.ATM.resources
+C:\Users\Tom\Documents\UoD\2nd Year\2nd Semester\Computer Systems 2B\CW3\ATMSimulator\ATMSimulator\obj\x86\Debug\ATMSimulator.Properties.Resources.resources
+C:\Users\Tom\Documents\UoD\2nd Year\2nd Semester\Computer Systems 2B\CW3\ATMSimulator\ATMSimulator\obj\x86\Debug\ATMSimulator.csproj.GenerateResource.Cache
+C:\Users\Tom\Documents\UoD\2nd Year\2nd Semester\Computer Systems 2B\CW3\ATMSimulator\ATMSimulator\obj\x86\Debug\ATMSimulator.exe
+C:\Users\Tom\Documents\UoD\2nd Year\2nd Semester\Computer Systems 2B\CW3\ATMSimulator\ATMSimulator\obj\x86\Debug\ATMSimulator.pdb
+C:\Users\Tom\Documents\UoD\2nd Year\2nd Semester\Computer Systems 2B\CW3\ATMSimulator\ATMSimulator\obj\x86\Debug\ATMSimulator.csprojResolveAssemblyReference.cache

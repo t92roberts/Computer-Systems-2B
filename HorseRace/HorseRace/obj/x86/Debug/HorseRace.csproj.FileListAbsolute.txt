@@ -1,0 +1,6 @@
+C:\Users\Tom\Documents\UoD\2nd Year\2nd Semester\Computer Systems 2B\HorseRace\HorseRace\obj\x86\Debug\HorseRace.Properties.Resources.resources
+C:\Users\Tom\Documents\UoD\2nd Year\2nd Semester\Computer Systems 2B\HorseRace\HorseRace\obj\x86\Debug\HorseRace.csproj.GenerateResource.Cache
+C:\Users\Tom\Documents\UoD\2nd Year\2nd Semester\Computer Systems 2B\HorseRace\HorseRace\bin\Debug\HorseRace.exe
+C:\Users\Tom\Documents\UoD\2nd Year\2nd Semester\Computer Systems 2B\HorseRace\HorseRace\bin\Debug\HorseRace.pdb
+C:\Users\Tom\Documents\UoD\2nd Year\2nd Semester\Computer Systems 2B\HorseRace\HorseRace\obj\x86\Debug\HorseRace.exe
+C:\Users\Tom\Documents\UoD\2nd Year\2nd Semester\Computer Systems 2B\HorseRace\HorseRace\obj\x86\Debug\HorseRace.pdb
